@@ -1,0 +1,1 @@
+<b-container fluid="md"></b-container>
